@@ -46,6 +46,6 @@ Sistema de agendamiento desarrollado con **React** en el frontend y **Node.js + 
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-proyecto.git
+git clone https://github.com/Dario-Gago/sistema-de-agendamiento.git
 cd nombre-del-proyecto
 ```
