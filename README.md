@@ -18,7 +18,7 @@ Sistema de agendamiento desarrollado con **React** en el frontend y **Node.js + 
 
 ## 🛠 Tecnologías utilizadas
 
-- **Frontend:** React, React Router, CSS Modules
+- **Frontend:** React, React Router, Tailwindcss
 - **Backend:** Node.js, Express
 - **Base de datos:** PostgreSQL
 - **Otros:** Axios para peticiones HTTP, dotenv para manejo de variables de entorno
